@@ -6,10 +6,13 @@
 
 ## Tech Stack
 #### Language
+<div>
 <img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
+</div>
 
 #### Development Tool
+<div></div>
 <!-- IntelliJ IDEA -->
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
 <!-- VSCode -->
@@ -18,14 +21,15 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 <!-- Eclipse -->
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
+</div>
 
 #### ETC
+<div></div>
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-
 <!-- AWS -->
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-
+</div>
 
 
 
