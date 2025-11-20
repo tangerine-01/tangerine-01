@@ -10,15 +10,38 @@
 <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
 
 #### Development Tool
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"><br>
+<!-- IntelliJ IDEA -->
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="22" style="vertical-align:middle;">
+&nbsp;IntelliJ IDEA
+
+<br>
+
+<!-- VSCode -->
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="22" style="vertical-align:middle;">
+&nbsp;Visual Studio Code
+
+<br>
+
+<!-- Visual Studio -->
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="22" style="vertical-align:middle;">
+&nbsp;Visual Studio
+
+<br>
+
+<!-- Eclipse -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" width="22" style="vertical-align:middle;">
+&nbsp;Eclipse IDE
 
 #### ETC
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"><br>
+<!-- MySQL -->
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="32" style="vertical-align:middle;">
+&nbsp;MySQL
 
+<br>
+
+<!-- AWS -->
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="32" style="vertical-align:middle;">
+&nbsp;Amazon AWS
 
 
 
