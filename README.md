@@ -6,19 +6,24 @@
 
 ## Tech Stack
 # Language
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<div>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white">
+</div>
 
 # Development Tool
-<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-#23A8F2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-#A276D9?style=flat-square&logo=visualstudio&logoColor=white"/>
+<div>
+<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-#23A8F2?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-#A276D9?style=flat-square&logo=visualstudio&logoColor=white">
+</div>
 
 
 # ETC
-<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"/>
-
+<div>
+<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+</div>
 
 
 
