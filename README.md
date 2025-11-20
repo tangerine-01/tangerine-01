@@ -14,15 +14,15 @@
 # Development Tool
 <div>
 <img src="https://img.shields.io/badge/intellijidea-%23000000?style=flat-square&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-%2323A8F2?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-%23A276D9?style=flat-square&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-%2323A8F2?style=flat-square&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-%23A276D9?style=flat-square&logo=Visual Studio&logoColor=white">
 </div>
 
 
 # ETC
 <div>
-<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-#4479A1?style=flat-square&logo=MYSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </div>
 
 
