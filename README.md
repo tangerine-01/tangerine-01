@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello,%20World!&color=gradient)
 
 ## About Me
-:mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
-:lion: Likelion univ 13th
+#### :mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
+#### :lion: Likelion univ 13th
 
 ## Tech Stack
 # Language
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/intellijidea-%23000000?style=flat-square&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-%235C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/eclipseide-%232C2255?style=flat-square&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-%232C2255?style=flat-square&logo=eclipseide&logoColor=white">
 </div>
 
 
