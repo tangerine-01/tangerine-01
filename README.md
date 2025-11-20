@@ -10,6 +10,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 </div>
 
 #### Development Tool
