@@ -8,14 +8,14 @@
 # Language
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
 </div>
 
 # Development Tool
 <div>
-<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-#23A8F2?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-#A276D9?style=flat-square&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-%23000000?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-%2323A8F2?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-%23A276D9?style=flat-square&logo=visualstudio&logoColor=white">
 </div>
 
 
