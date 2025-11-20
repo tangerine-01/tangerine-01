@@ -1,6 +1,32 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello,%20World!&color=gradient)
+
+## About Me
+:mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
+:lion: Likelion univ 13th
+
+## Tech Stack
+# Language
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+# Development Tool
+<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-#23A8F2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-#A276D9?style=flat-square&logo=visualstudio&logoColor=white"/>
+
+
+# ETC
+<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"/>
+
+
+
+
+
+
+
+
+
 
 <!--
 **tangerine-01/tangerine-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
