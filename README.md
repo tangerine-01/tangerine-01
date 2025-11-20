@@ -21,8 +21,8 @@
 
 # ETC
 <div>
-<img src="https://img.shields.io/badge/MYSQL-#4479A1?style=flat-square&logo=MYSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-%234479A1?style=flat-square&logo=MYSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-%23232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </div>
 
 
