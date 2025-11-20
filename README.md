@@ -4,15 +4,16 @@
 #### :mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
 #### :lion: Likelion univ 13th
 
+
 ## Tech Stack
 #### Language
-<div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
 </div>
 
 #### Development Tool
-<div></div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 <!-- IntelliJ IDEA -->
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
 <!-- VSCode -->
@@ -24,16 +25,35 @@
 </div>
 
 #### ETC
-<div></div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <!-- AWS -->
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
+<!--
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangerine-01)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangerine-01)](https://github.com/anuraghazra/github-readme-stats)
 
+## DEV log
+<div style="display:flex; flex-direction:row;">
+    <a href="https://manda-rine.tistory.com/">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+</div><br>
+-->
 
-
+## Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:smallstar019@kau.kr">
+        <img src="https://img.shields.io/badge/Outlook-05a6f0?style=for-the-badge"> 
+    </a>
+</div>
 
 
 <!--
