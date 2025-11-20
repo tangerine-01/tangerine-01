@@ -7,7 +7,7 @@
 ## Tech Stack
 # Language
 <div>
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white">
 </div>
 
