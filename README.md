@@ -14,8 +14,8 @@
 # Development Tool
 <div>
 <img src="https://img.shields.io/badge/Intellij IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-%235C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-%235C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-%232C2255?style=flat-square&logo=eclipseide&logoColor=white">
 </div>
 
@@ -23,7 +23,7 @@
 # ETC
 <div>
 <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=flat-square&logo=MYSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 </div>
 
 
