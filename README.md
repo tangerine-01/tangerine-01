@@ -2,7 +2,7 @@
 
 ## About Me
 #### :mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
-#### :lion: Likelion univ 13th
+#### :lion: KAU Likelion univ 13th
 
 
 ## Tech Stack
