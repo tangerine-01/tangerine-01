@@ -3,6 +3,7 @@
 ## About Me
 #### :mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
 #### :lion: KAU Likelion univ 13th
+#### :shield: KAU MakeUsChallenge(UMC) Node.js 10th ~ing
 
 
 ## Tech Stack
