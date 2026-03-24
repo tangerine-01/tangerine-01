@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello,%20World!&color=gradient)
 
 ## About Me
-#### :mortar_board: Korea Aerospace University Department of Computer Science and Engineering(KAU CSE)
+#### :mortar_board: Korea Aerospace University Department of Computer Science and Engineering(KAU CSE) ~ing
 #### :lion: KAU Likelion univ 13th Backend Certificate
 #### :shield: KAU MakeUsChallenge(UMC) Node.js 10th ~ing
 
