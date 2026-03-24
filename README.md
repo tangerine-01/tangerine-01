@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello,%20World!&color=gradient)
 
 ## About Me
-#### :mortar_board: 한국항공대학교 컴퓨터공학과 24학번 (KAU)
-#### :lion: KAU Likelion univ 13th 백엔드 수료
+#### :mortar_board: Korea Aerospace University Department of Computer Science and Engineering(KAU CES)
+#### :lion: KAU Likelion univ 13th Backend Certificate
 #### :shield: KAU MakeUsChallenge(UMC) Node.js 10th ~ing
 
 
