@@ -9,10 +9,18 @@
 ## Tech Stack
 #### Language
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-<img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-%23A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-%23A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    
+</div>
+
+#### Framework
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white">
 </div>
 
 #### Development Tool
