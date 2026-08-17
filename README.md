@@ -59,10 +59,9 @@ api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 -->
 
 ## Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:smallstar019@kau.kr">
-        <img src="https://img.shields.io/badge/Outlook-05a6f0?style=for-the-badge"> 
-    </a>
+<div>
+  <a href="mailto:smallstar019@kau.kr"><img src="https://img.shields.io/badge/Outlook-05a6f0?style=for-the-badge" alt="Outlook"></a>
+  <a href="https://manda-rine.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EF4B23?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAzYTMgMyAwIDEgMCA2IDAgMyAzIDAgMCAwLTYgMG05IDE4YTMgMyAwIDEgMCA2IDAgMyAzIDAgMCAwLTYgMG0wLTlhMyAzIDAgMSAwIDYgMCAzIDMgMCAwIDAtNiAwbTAtOWEzIDMgMCAxIDAgNiAwIDMgMyAwIDAgMC02IDBtOSAwYTMgMyAwIDEgMCA2IDAgMyAzIDAgMCAwLTYgMCIvPjwvc3ZnPg==" alt="Tistory"></a>
 </div>
 
 
