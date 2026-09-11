@@ -3,7 +3,8 @@
 ## About Me
 #### :mortar_board: Korea Aerospace University Department of Computer Science and Engineering(KAU CSE) ~ing
 #### :lion: KAU Likelion univ 13th Backend Certificate
-#### :shield: KAU MakeUsChallenge(UMC) Node.js 10th ~ing
+#### :shield: KAU MakeUsChallenge(UMC) Node.js 10th Certificate
+#### :shield: KAU MakeUsChallenge(UMC) Product Engineering Mobile 11th ~ing
 
 
 ## Tech Stack
